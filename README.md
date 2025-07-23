@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gamze Bozkurt Omar
 
-Curious, adaptable, and data-driven. I'm a data analyst with an engineering background, passionate about transforming complex data into clear, actionable insights. My work combines machine learning, statistical modeling, and effective data storytelling — always with a focus on delivering impact.
+Curious, adaptable, and data-driven. I'm a data analyst with an engineering background, passionate about transforming complex data into clear, actionable insights. My work combines machine learning, statistical modeling, and effective data storytelling always with a focus on delivering impact.
 
 🔍 Currently supporting nonprofit partners at **DataKind UK**  
 🎓 Graduated with Distinction from the **LSE Data Analytics Career Accelerator**  
@@ -69,8 +69,7 @@ Supported a performance modeling project for a hydroelectric turbine by processi
 
 ✅ Structured raw measurements and simulation outputs into analyzable formats  
 ✅ Conducted feature analysis to inform performance modeling  
-✅ Delivered insights that contributed to design improvement and reduced energy loss  
-✅ Experience with ISO/IEC standards and technical compliance documentation  
+✅ Delivered insights that contributed to design improvement and reduced energy loss    
 
 ---
 
