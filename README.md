@@ -99,6 +99,20 @@ Trello, Miro, Agile Methods, Work Breakdown Structure (WBS), Google Docs
 
 ---
 
+## 🎯 In My Free Time
+
+When I’m not working with data, I enjoy:
+
+- Practicing **archery** — both as a sport and a focus booster  
+- Exploring **AI ethics and tech-for-good initiatives**  
+- Hosting or volunteering at **community and charity events**  
+- Playing the strategic board game **Go**, which sharpens my thinking  
+- Travelling and engaging in **intercultural exchange** projects  
+
+These hobbies help me recharge, build empathy, and stay curious — qualities I bring into my professional life too.
+
+---
+
 ## 📫 Contact
 
 📍 Birmingham, UK  
